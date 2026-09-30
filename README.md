@@ -11,7 +11,7 @@ A tiny, dependency-free Python CLI and library for the calibration math every 3D
 
 ## Install
 ```bash
-pip install git+https://github.com/<your-user>/printer-calibration-cli
+pip install git+https://github.com/sizebench-calculators/printer-calibration-cli
 ```
 
 ## CLI
